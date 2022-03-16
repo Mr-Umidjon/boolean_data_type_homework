@@ -1,4 +1,4 @@
-def main(a,b):
+def main(a, b):
     """
     Check the logic "they are equal"
     Args:
@@ -8,4 +8,4 @@ def main(a,b):
         bool
     """
     # Write your code here
-    return 
+    return a == b
